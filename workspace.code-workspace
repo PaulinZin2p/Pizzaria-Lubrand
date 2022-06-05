@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\icomoon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VsCode"
+	}
+}
